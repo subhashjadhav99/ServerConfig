@@ -1,0 +1,13 @@
+server:
+  port: 8085
+  
+  spring:
+  apllication:
+  name: CONFIG-SERVER
+  
+  clone-on-start: true
+  
+  config:
+  server:
+  git: https://github.com/subhashjadhav99/Config-Server.git
+  
